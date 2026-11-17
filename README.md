@@ -1,6 +1,6 @@
 # WindFidelity
 
-[![CI](https://github.com/bh462007/WindFidelity/actions/workflows/ci.yml/badge.svg)](https://github.com/bh462007/WindFidelity/actions/workflows/ci.yml)
+[![CI](https://github.com/bh462007/dt46mk0ph13q/actions/workflows/ci.yml/badge.svg)](https://github.com/bh462007/dt46mk0ph13q/actions/workflows/ci.yml)
 
 ![Dashboard](docs/dashboard.png)
 *January 2026 overview.*
