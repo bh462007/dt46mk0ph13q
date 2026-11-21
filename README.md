@@ -7,7 +7,7 @@
 
 WindFidelity answers one question for a wind-power buyer in Great Britain: **were the day-ahead wind forecasts accurate enough to buy on?** For purchase decisions made in January 2026 it shows the forecast that was available at decision time next to what the grid actually produced, and measures the error in megawatts.
 
-**Deployed app:** _add the link here after deploying_
+**Deployed app:** https://dt46mk0ph13q-ttnq.vercel.app
 
 ## What it shows
 
